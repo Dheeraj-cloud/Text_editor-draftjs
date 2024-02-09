@@ -1,0 +1,51 @@
+.editor-container {
+    margin: 20px;
+  }
+  
+  .title {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  .save-button {
+    padding: 8px 16px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-bottom: 10px;
+  }
+  
+  .save-button:hover {
+    background-color: #0056b3;
+  }
+  
+  .DraftEditor-root {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    min-height: 200px;
+  }
+  
+  .public-DraftEditor-content {
+    min-height: 150px;
+  }
+  
+  .underline {
+    text-decoration: underline;
+  }
+  
+  .red-line {
+    color: red;
+  }
+  .underline{
+    text-decoration: underline;
+  }
+  .bold{
+    font-weight: bold;
+  }
+  .heading{
+    font-size: 2em; 
+    font-weight: bold;
+  }
